@@ -1,4 +1,3 @@
-0
 create database Anisha;
 use Anisha;
 
